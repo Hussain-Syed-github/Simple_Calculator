@@ -21,3 +21,6 @@ cd yourappname
 ### Replace the files with the Available files in the repository
 ### Run the server:
 npm start
+## Preview
+![calculator_preview](https://github.com/user-attachments/assets/1bf56c84-9ecc-4f22-9c7c-f7b44d1ee1e5)
+
