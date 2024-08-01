@@ -13,5 +13,11 @@ JavaScript: The programming language used for handling logic and state managemen
 
 ## Prerequisites
 Node.js and npm installed on your machine.
-
-
+## Steps to Follow:
+### Create a react app:
+npx create-react-app yourappname
+### Navigate to the created folder
+cd yourappname
+### Replace the files with the Available files in the repository
+### Run the server:
+npm start
